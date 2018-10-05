@@ -37,7 +37,7 @@ class GlobalStyles {
       colorText: 'rgb(214, 214, 214)',
       colorTextDisabled: 'rgb(129, 129, 129)',
       colorTraffic: {
-        normal: 'rgb(186, 213, 237)',
+        normal: '#000000',
         normalDonut: 'rgb(91, 91, 91)',
         warning: 'rgb(268, 185, 73)',
         danger: 'rgb(184, 36, 36)'
